@@ -1,0 +1,12 @@
+.hero {
+  background-image: url("../Assets/TentangKami/3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.hero1 {
+  background-image: url("../Assets/TentangKami/2.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

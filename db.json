@@ -1,0 +1,562 @@
+{
+  "kategori": [
+    {
+      "gambar": "https://cdn.gramedia.com/uploads/items/9786239712716.jpg",
+      "title": "Novel"
+    },
+    {
+      "gambar": "https://images-tm.tempo.co/mbm/cover/2626/cover_20_November_2022_-_Outlook_Ekonomi_2023:_Kilau_Pembiayaan_Hijau.jpeg",
+      "title": "Majalah"
+    },
+    {
+      "gambar": "https://cdn.gramedia.com/uploads/items/9786020305646_Kamus-Inggris.jpg",
+      "title": "Kamus"
+    },
+    {
+      "gambar": "https://static.republika.co.id/uploads/infografis/komik-si-calus_220206194930-485.jpg",
+      "title": "Komik"
+    },
+    {
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Figure_in_Manga_style.png/220px-Figure_in_Manga_style.png",
+      "title": "Manga"
+    },
+    {
+      "gambar": "https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2022/08/09071426/Ensiklopedia-adalah1-810x757.jpg",
+      "title": "Ensiklopedia"
+    },
+    {
+      "gambar": "https://www.gramedia.com/blog/content/images/2021/08/img20210508_14072450.jpg",
+      "title": "Biografi"
+    },
+    {
+      "gambar": "https://imgv2-2-f.scribdassets.com/img/document/238083766/original/f942fae851/1678507437?v=1",
+      "title": "Naskah"
+    },
+    {
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPy6copWMRHEDR-VZH5q_lXATC3nUHQOOGCEONEOFYAh6msJVqOHLcr2uwea_8zZNDnao&usqp=CAU",
+      "title": "D ongeng"
+    },
+    {
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SkOurMKOOkoYKrLN7KYcD42JAwRyXUVQmosH6KH9EJpQe7lzuaSVVXWLbZJthHLyi9g&usqp=CAU",
+      "title": "Forografi"
+    }
+  ],
+  "products": [
+    {
+      "name": "filosofi teras",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "100.00",
+      "retting": "5.6",
+      "promo": "140.00 ",
+      "bahasa": "inggris",
+      "rilis": "2018",
+      "lokasi": "sulawesi",
+      "kategori": "novel",
+      "id": "1"
+    },
+    {
+      "name": "product-2 updated",
+      "avatar": "https://png.pngtree.com/element_our/20190529/ourmid/pngtree-three-books-hand-drawn-illustration-image_1209639.jpg",
+      "price": "150.00",
+      "retting": "5.7",
+      "promo": "140.00",
+      "id": "2",
+      "kategori": "Dongeng",
+      "lokasi": "Bandung"
+    },
+    {
+      "name": "product-3",
+      "avatar": "https://png.pngtree.com/element_our/20190529/ourmid/pngtree-three-books-hand-drawn-illustration-image_1209639.jpg",
+      "price": "200.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "rilis": "2020",
+      "promo": "230.00",
+      "id": "3",
+      "lokasi": "Semarang",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-4",
+      "avatar": "https://png.pngtree.com/element_our/20190529/ourmid/pngtree-three-books-hand-drawn-illustration-image_1209639.jpg",
+      "price": "450.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "rilis": "2008",
+      "promo": "800.00",
+      "id": "4",
+      "lokasi": "Bekasi",
+      "kategori": "Biografi"
+    },
+    {
+      "name": "product-5",
+      "avatar": "https://png.pngtree.com/element_our/20190529/ourmid/pngtree-three-books-hand-drawn-illustration-image_1209639.jpg",
+      "price": "60.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "rilis": "2019",
+      "promo": "150.00",
+      "id": "5",
+      "lokasi": "Yogyakarta",
+      "kategori": "Fotografi"
+    },
+    {
+      "name": "Republict indonesia",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "100.00",
+      "retting": "5.6",
+      "promo": "200.00",
+      "id": "WxlxcBG"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "140.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Juwana",
+      "kategori": "Komik"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "100.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Semarang",
+      "kategori": "Novel"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "150.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "250.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "300.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Jakarta",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "100.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Bandung",
+      "kategori": "Majalah"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "100.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Semarang",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product-1",
+      "avatar": "https://static-cse.canva.com/blob/952434/MembuatpembatasbukuCanva.png",
+      "price": "100.00",
+      "retting": "5.6",
+      "bahasa": "indonesia",
+      "promo": "200.00",
+      "rilis": "2019",
+      "id": "WxlxcBG",
+      "lokasi": "Pati",
+      "kategori": "Kamus"
+    },
+    {
+      "name": "product new",
+      "avatar": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/Buku-ilustrasi.jpg",
+      "price": "200.00",
+      "rilis": "2019",
+      "retting": "4.0",
+      "promo": "300.00",
+      "id": "kCHSgkQ",
+      "lokasi": "Yogyakarta",
+      "kategori": "Novel"
+    },
+    {
+      "name": "cinta satu malam",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Book4543543543.jpg/800px-Book4543543543.jpg",
+      "rilis": "2016",
+      "price": "150.00",
+      "retting": "4.6",
+      "promo": "100.00",
+      "id": "BUuQz3f",
+      "lokasi": "Batang",
+      "kategori": "Komik"
+    },
+    {
+      "name": "peoduct new updates",
+      "avatar": "https://www.dicoding.com/blog/wp-content/uploads/2020/04/internship-rendi-photo-backend.png",
+      "price": "100000",
+      "retting": "8.9",
+      "promo": "10000",
+      "id": "9NlyVXc"
+    }
+  ]
+}
